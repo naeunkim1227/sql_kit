@@ -1,3 +1,5 @@
+-- 문제: 최대 N값 구하기 
+
 
 -- 내가 작성한 풀이 : limit와 서브쿼리를 활용하여 작성하였음.
 SELECT name from animal_ins where datetime = (select datetime from animal_ins order by datetime asc limit 0,1);
