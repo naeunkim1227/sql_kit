@@ -42,7 +42,7 @@ WITH RECURSIVE문 재귀함수
 
 
 ### DAY5 (2022-01-29)
-4-1,4-2,4-3
+4-1,4-2,4-3 풀이
 
 ![화면 캡처 2022-01-29 222443](https://user-images.githubusercontent.com/83413364/151662777-608d3f84-b9ac-4b26-b811-0d756abdd0b2.png)
 
