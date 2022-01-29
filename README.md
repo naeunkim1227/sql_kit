@@ -8,8 +8,6 @@
 5. Join
 6. String,Date
 
-
-
 ---
 
 # PROGRESS
@@ -39,3 +37,12 @@ WITH절 개념 공부
 ### DAY4 (2022-01-27)
 3-4 풀이
 WITH RECURSIVE문 재귀함수
+
+![화면 캡처 2022-01-29 220459](https://user-images.githubusercontent.com/83413364/151662130-479f0715-7330-44b4-a2c8-c600b709e055.png)
+
+
+### DAY5 (2022-01-29)
+4-1,4-2,4-3
+
+![화면 캡처 2022-01-29 222443](https://user-images.githubusercontent.com/83413364/151662777-608d3f84-b9ac-4b26-b811-0d756abdd0b2.png)
+
