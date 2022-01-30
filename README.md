@@ -46,3 +46,5 @@ WITH RECURSIVE문 재귀함수
 
 ![화면 캡처 2022-01-29 222443](https://user-images.githubusercontent.com/83413364/151662777-608d3f84-b9ac-4b26-b811-0d756abdd0b2.png)
 
+
+### DAY6 (2022-01-30)
